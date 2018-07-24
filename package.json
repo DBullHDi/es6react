@@ -1,0 +1,24 @@
+{
+  "name": "es6k",
+  "version": "1.0.0",
+  "description": "fun with es6 and react",
+  "private": true,
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "6.26.3",
+    "babel-loader": "7.1.4",
+    "babel-preset-env": "1.7.0",
+    "babel-preset-react": "6.24.1",
+    "react": "16.4.1",
+    "react-bootstrap": "0.32.1",
+    "react-dom": "16.4.1",
+    "webpack": "4.10.2",
+    "webpack-cli": "2.1.4",
+    "webpack-dev-server": "3.1.4"
+  }
+}
